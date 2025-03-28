@@ -9,3 +9,8 @@ go mod init hello(folder)
 ```
 go mod tidy 
 ```
+
+3.- Correr Go en donde se encuentre main()
+```
+go run .
+```
